@@ -1,0 +1,44 @@
+#align-middle {
+    font-size: 10px;
+}
+
+.data-area {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.datatable .col {
+    cursor: pointer;
+    color: rgb(4, 148, 117);
+    font-size: 0.3in;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.header {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 0.2in;
+    padding: 30px 0;
+    color: #ffffff;
+    background-image: linear-gradient(to bottom, rgb(3, 163, 115) 10%, #006064 80%);
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 0.7in;
+}
+
+.name-cell {
+    text-transform: capitalize;
+}
+
+.navbar {
+    padding: 20px 25px;
+}
+
+.navbar-collapse {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: flex-start;
+}
