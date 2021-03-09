@@ -34,18 +34,20 @@ To filter employees by name, type a name into the search line.
 
 ## Finished Product
 Heroko: https://react-employee-directory-by-jm.herokuapp.com/
-GitHub Pages: 
+
+## Demo
+
 ![Example](./public/example.jpg)
 
 ## Technologies
 
-* HTML
-* CSS
-* JavaScript
 * React
+* JavaScript
+* CSS
+* HTML
 * UIKit
-* Create React App
 * Axios
+* Random User API
 
 ## Questions
 
