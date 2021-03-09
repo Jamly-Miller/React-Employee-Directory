@@ -33,7 +33,8 @@ When the user loads the page, a table of employees renders.
 To filter employees by name, type a name into the search line.
 
 ## Finished Product
-
+Heroko: https://react-employee-directory-by-jm.herokuapp.com/
+GitHub Pages: 
 ![Example](./public/example.jpg)
 
 ## Technologies
@@ -47,7 +48,7 @@ To filter employees by name, type a name into the search line.
 * Axios
 
 ## Questions
-​
+
 If you have any questions about the repo, please contact me:
 
 
